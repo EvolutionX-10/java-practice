@@ -1,0 +1,6 @@
+1,John,Manager,3900.0
+2,Jack,Salesman,2400.0
+3,Jill,Clerk,1100.0
+4,Joe,Manager,5200.0
+5,Jane,Salesman,7200.0
+6,Joy,Clerk,8800.0

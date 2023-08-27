@@ -1,0 +1,6 @@
+1,John,Manager,3000
+2,Jack,Salesman,2000
+3,Jill,Clerk,1000
+4,Joe,Manager,4000
+5,Jane,Salesman,6000
+6,Joy,Clerk,8000

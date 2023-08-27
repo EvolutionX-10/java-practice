@@ -1,0 +1,8 @@
+{
+	"editor.fontFamily": "JetBrains Mono",
+	"clock.format": "H:MM:ss",
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Catppuccin Macchiato",
+	"java.debug.settings.onBuildFailureProceed": true,
+	"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable",
+}
